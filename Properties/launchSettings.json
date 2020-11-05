@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FileSyncronation": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "remoteDebugMachine": ""
+    }
+  }
+}
